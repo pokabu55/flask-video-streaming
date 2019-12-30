@@ -32,3 +32,5 @@ from camera_opencv import Camera
 ```
 
   * 修正前は、予め用意された3枚のjpgが順に表示されるのみ
+
+* [こっちの記事](https://qiita.com/MuAuan/items/92f3b1004cfde071add6)が必要そう
